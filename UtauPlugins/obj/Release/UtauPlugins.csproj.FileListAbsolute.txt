@@ -1,0 +1,23 @@
+D:\MyProgramming\VisualStudio\UtauPlugins\UtauPlugins\bin\Release\UtauPlugins.exe.config
+D:\MyProgramming\VisualStudio\UtauPlugins\UtauPlugins\bin\Release\UtauPlugins.exe
+D:\MyProgramming\VisualStudio\UtauPlugins\UtauPlugins\bin\Release\UtauPlugins.pdb
+D:\MyProgramming\VisualStudio\UtauPlugins\UtauPlugins\obj\Release\UtauPlugins.csprojResolveAssemblyReference.cache
+D:\MyProgramming\VisualStudio\UtauPlugins\UtauPlugins\obj\Release\UtauPlugins.Index.resources
+D:\MyProgramming\VisualStudio\UtauPlugins\UtauPlugins\obj\Release\UtauPlugins.Properties.Resources.resources
+D:\MyProgramming\VisualStudio\UtauPlugins\UtauPlugins\obj\Release\UtauPlugins.csproj.GenerateResource.Cache
+D:\MyProgramming\VisualStudio\UtauPlugins\UtauPlugins\obj\Release\UtauPlugins.exe
+D:\MyProgramming\VisualStudio\UtauPlugins\UtauPlugins\obj\Release\UtauPlugins.pdb
+D:\MyProgramming\VisualStudio\UtauPlugins\UtauPlugins\bin\Release\HUtau.dll
+D:\MyProgramming\VisualStudio\UtauPlugins\UtauPlugins\bin\Release\HUtau.pdb
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\UtauPlugins\bin\Release\UtauPlugins.exe.config
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\UtauPlugins\bin\Release\UtauPlugins.exe
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\UtauPlugins\bin\Release\UtauPlugins.pdb
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\UtauPlugins\bin\Release\HUtau.dll
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\UtauPlugins\bin\Release\HUtau.pdb
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\UtauPlugins\obj\Release\UtauPlugins.csprojResolveAssemblyReference.cache
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\UtauPlugins\obj\Release\UtauPlugins.Index.resources
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\UtauPlugins\obj\Release\UtauPlugins.Properties.Resources.resources
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\UtauPlugins\obj\Release\UtauPlugins.csproj.GenerateResource.Cache
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\UtauPlugins\obj\Release\UtauPlugins.exe
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\UtauPlugins\obj\Release\UtauPlugins.pdb
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\UtauPlugins\bin\Release\ChnCharInfo.dll

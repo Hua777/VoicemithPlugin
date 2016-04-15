@@ -1,0 +1,14 @@
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\SetLyrics\bin\Release\SetLyrics.exe.config
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\SetLyrics\bin\Release\SetLyrics.exe
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\SetLyrics\bin\Release\SetLyrics.pdb
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\SetLyrics\obj\Release\SetLyrics.csprojResolveAssemblyReference.cache
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\SetLyrics\obj\Release\SetLyrics.Properties.Resources.resources
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\SetLyrics\obj\Release\SetLyrics.csproj.GenerateResource.Cache
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\SetLyrics\obj\Release\SetLyrics.exe
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\SetLyrics\obj\Release\SetLyrics.pdb
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\SetLyrics\obj\Release\SetLyrics.Simple.resources
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\SetLyrics\bin\Release\HUtau.dll
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\SetLyrics\bin\Release\HUtau.pdb
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\SetLyrics\bin\Release\ChnCharInfo.dll
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\SetLyrics\obj\Release\SetLyrics.PriorityEditor.resources
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\SetLyrics\bin\Release\NAudio.dll

@@ -1,0 +1,12 @@
+D:\MyProgramming\VisualStudio\UtauPlugins\MixSubTxt\bin\Release\MixSubTxt.exe.config
+D:\MyProgramming\VisualStudio\UtauPlugins\MixSubTxt\bin\Release\MixSubTxt.exe
+D:\MyProgramming\VisualStudio\UtauPlugins\MixSubTxt\bin\Release\MixSubTxt.pdb
+D:\MyProgramming\VisualStudio\UtauPlugins\MixSubTxt\obj\Release\MixSubTxt.csprojResolveAssemblyReference.cache
+D:\MyProgramming\VisualStudio\UtauPlugins\MixSubTxt\obj\Release\MixSubTxt.exe
+D:\MyProgramming\VisualStudio\UtauPlugins\MixSubTxt\obj\Release\MixSubTxt.pdb
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\MixSubTxt\bin\Release\MixSubTxt.exe.config
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\MixSubTxt\obj\Release\MixSubTxt.exe
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\MixSubTxt\obj\Release\MixSubTxt.pdb
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\MixSubTxt\bin\Release\MixSubTxt.exe
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\MixSubTxt\bin\Release\MixSubTxt.pdb
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\MixSubTxt\obj\Release\MixSubTxt.csprojResolveAssemblyReference.cache

@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtauPlugins", "UtauPlugins\UtauPlugins.csproj", "{B22B217C-DF7B-4881-88EE-95B068126C04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HUtau", "HUtau\HUtau.csproj", "{726B19FA-8287-46C8-A9F3-D2EAC2012B06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MixSubTxt", "MixSubTxt\MixSubTxt.csproj", "{94729684-433A-45FA-BE0A-9834FB977CB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetLyrics", "SetLyrics\SetLyrics.csproj", "{71FA4374-BE63-4810-865D-8ADFFC4742A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UstReset", "UstReset\UstReset.csproj", "{A393F7DF-AFCE-476F-8CE0-83456108CBBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B22B217C-DF7B-4881-88EE-95B068126C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B22B217C-DF7B-4881-88EE-95B068126C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B22B217C-DF7B-4881-88EE-95B068126C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B22B217C-DF7B-4881-88EE-95B068126C04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{726B19FA-8287-46C8-A9F3-D2EAC2012B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{726B19FA-8287-46C8-A9F3-D2EAC2012B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{726B19FA-8287-46C8-A9F3-D2EAC2012B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{726B19FA-8287-46C8-A9F3-D2EAC2012B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94729684-433A-45FA-BE0A-9834FB977CB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94729684-433A-45FA-BE0A-9834FB977CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94729684-433A-45FA-BE0A-9834FB977CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94729684-433A-45FA-BE0A-9834FB977CB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71FA4374-BE63-4810-865D-8ADFFC4742A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71FA4374-BE63-4810-865D-8ADFFC4742A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71FA4374-BE63-4810-865D-8ADFFC4742A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71FA4374-BE63-4810-865D-8ADFFC4742A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A393F7DF-AFCE-476F-8CE0-83456108CBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A393F7DF-AFCE-476F-8CE0-83456108CBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A393F7DF-AFCE-476F-8CE0-83456108CBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A393F7DF-AFCE-476F-8CE0-83456108CBBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

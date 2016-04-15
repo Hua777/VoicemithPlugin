@@ -1,0 +1,6 @@
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\MixSubTxt\bin\Debug\MixSubTxt.exe.config
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\MixSubTxt\bin\Debug\MixSubTxt.exe
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\MixSubTxt\bin\Debug\MixSubTxt.pdb
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\MixSubTxt\obj\Debug\MixSubTxt.csprojResolveAssemblyReference.cache
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\MixSubTxt\obj\Debug\MixSubTxt.exe
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\MixSubTxt\obj\Debug\MixSubTxt.pdb

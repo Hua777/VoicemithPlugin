@@ -1,0 +1,16 @@
+D:\MyProgramming\VisualStudio\UtauPlugins\HUtau\bin\Release\HUtau.dll
+D:\MyProgramming\VisualStudio\UtauPlugins\HUtau\bin\Release\HUtau.pdb
+D:\MyProgramming\VisualStudio\UtauPlugins\HUtau\obj\Release\HUtau.dll
+D:\MyProgramming\VisualStudio\UtauPlugins\HUtau\obj\Release\HUtau.pdb
+D:\MyProgramming\VisualStudio\UtauPlugins\HUtau\obj\Release\HUtau.HMainEditor.resources
+D:\MyProgramming\VisualStudio\UtauPlugins\HUtau\obj\Release\HUtau.csproj.GenerateResource.Cache
+D:\MyProgramming\VisualStudio\UtauPlugins\HUtau\obj\Release\HUtau.csprojResolveAssemblyReference.cache
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\HUtau\bin\Release\HUtau.dll
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\HUtau\bin\Release\HUtau.pdb
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\HUtau\obj\Release\HUtau.csprojResolveAssemblyReference.cache
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\HUtau\obj\Release\HUtau.HMainEditor.resources
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\HUtau\obj\Release\HUtau.csproj.GenerateResource.Cache
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\HUtau\obj\Release\HUtau.dll
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\HUtau\obj\Release\HUtau.pdb
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\HUtau\obj\Release\HUtau.HLineEditor.resources
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\HUtau\bin\Release\ChnCharInfo.dll

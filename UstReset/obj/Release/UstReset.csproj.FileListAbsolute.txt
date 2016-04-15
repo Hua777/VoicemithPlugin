@@ -1,0 +1,12 @@
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\UstReset\bin\Release\UstReset.exe.config
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\UstReset\bin\Release\UstReset.exe
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\UstReset\bin\Release\UstReset.pdb
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\UstReset\obj\Release\UstReset.csprojResolveAssemblyReference.cache
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\UstReset\obj\Release\UstReset.Properties.Resources.resources
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\UstReset\obj\Release\UstReset.Simple.resources
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\UstReset\obj\Release\UstReset.csproj.GenerateResource.Cache
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\UstReset\obj\Release\UstReset.exe
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\UstReset\obj\Release\UstReset.pdb
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\UstReset\bin\Release\HUtau.dll
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\UstReset\bin\Release\ChnCharInfo.dll
+C:\Users\WeihuaNB\Documents\Visual Studio 2015\Projects\UtauPlugins\UstReset\bin\Release\HUtau.pdb
